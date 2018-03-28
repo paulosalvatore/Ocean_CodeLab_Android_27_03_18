@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ocean_CodeLab_Android_27_03_18</string>
+    <string name="nome_completo">Paulo Salvatore</string>
+    <string name="nome">Nome</string>
+    <string name="digite_o_seu_nome">Digite o seu nome</string>
+    <string name="exibir">Exibir</string>
+</resources>
